@@ -39,6 +39,6 @@ class OperationsTest {
 	
 	@Test
 	void averageTest() {
-		assertEquals(3, o.average());
+		assertEquals(5, o.average());
 	}
 }
